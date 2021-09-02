@@ -15,7 +15,7 @@ Olá!! Eu sou Ismael Lucas 👋
   <img align="center" alt="is-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="is-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="is-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif?cid=ecf05e471mi69q5c3uevqor96i3wp7z2m1tr8010zl71q07r&rid=giphy.gif&ct=g" width="150" height="100" />
+  <img align="right" src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif?cid=ecf05e471mi69q5c3uevqor96i3wp7z2m1tr8010zl71q07r&rid=giphy.gif&ct=g" width="200" height="100" />
 </div>
   
   
