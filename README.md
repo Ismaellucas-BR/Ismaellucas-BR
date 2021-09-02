@@ -27,5 +27,5 @@ Olá!! Eu sou Ismael Lucas 👋
   </div>
   
   <div>
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/Ismaellucas-BR/blob/output/github-contribution-grid-snake.svg)
   </div>
