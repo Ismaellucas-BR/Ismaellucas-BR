@@ -1,4 +1,4 @@
-Olá!! Eu sou Ismael Lucas 👋
+Olá!! Eu sou Ismael Lucas 🖖
 
 
 - 🌱 Estudando o Front-End
