@@ -2,7 +2,7 @@ Olá!! Eu sou Ismael Lucas 🖖
 
 
 - 🌱 Estudando o Front-End
-<div><img height="160em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&layout=compact&langs_count=7&theme=radical](https://br.pinterest.com/pin/638174209701011149/)"/> </div>
+<div><img height="160em" src="https://www.behance.net/gallery/102547285/Waiting-20/modules/590301077"/> </div>
  <div>
   <a href="https://github.com/Ismaellucas-BR">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
