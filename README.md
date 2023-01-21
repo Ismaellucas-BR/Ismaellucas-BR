@@ -7,7 +7,6 @@ Olá!! Eu sou Ismael Lucas 🖖
   <a href="https://github.com/Ismaellucas-BR">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=transparent"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&show_icons=true&theme=transparent"/>
-   api/pin?username=Ismaellucas-BR=github-readme-stats
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR=github-readme-stats)](https://github.com/Ismaellucas-BR/github-readme-stats)
 </div>
  <div>
@@ -41,3 +40,4 @@ Olá!! Eu sou Ismael Lucas 🖖
 
  </div>
  
+api/pin?username=Ismaellucas-BR=github-readme-stats
