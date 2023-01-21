@@ -5,8 +5,8 @@ Olá!! Eu sou Ismael Lucas 🖖
 <div><img height="400px" width="100%" src="https://i.pinimg.com/originals/60/df/77/60df77c5e60f20045cedef89c57010c5.gif"/> </div>
  <div>
   <a href="https://github.com/Ismaellucas-BR">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&show_icons=true&theme=transparent"/>
 </div>
  <div>
   <div>
