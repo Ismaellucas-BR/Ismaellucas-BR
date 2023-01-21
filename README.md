@@ -6,8 +6,8 @@
     </div>
      <div align="center">
       <a href="https://github.com/Ismaellucas-BR">
-      <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=transparent&bg_color=00000000"/>
-      <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&layout=compact&show_icons=true&theme=transparent&bg_color=00000000"/>
+      <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=transparent&bg_color=00000000&border_color=00CC99&title_color=FE19FF"/>
+      <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&layout=compact&show_icons=true&theme=transparent&bg_color=00000000&border_color=00CC99&title_color=FE19FF"/>
      </div>
   <div align="center">
         <a href="https://github.com/Ismaellucas-BR/Tatakkae"> <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Tatakkae&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
