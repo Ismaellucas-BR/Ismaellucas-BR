@@ -8,12 +8,7 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=transparent&bg_color=00000000"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&layout=compact&show_icons=true&theme=transparent&bg_color=00000000"/>
      </div>
-     <div>
-        <a href="https://github.com/Ismaellucas-BR/Tatakkae"> <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Tatakkae&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
-        <a href="https://github.com/Ismaellucas-BR/Carnaval"> <img height="160em"  src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Carnaval&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
-        <a href="https://github.com/Ismaellucas-BR/Instagram"> <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Instagram&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
-        <a href="https://github.com/Ismaellucas-BR/Carnaval"> <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Carnaval&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
-     </div>
+    
      <div>
       <div>
        <h2>Card Animado</h2>
