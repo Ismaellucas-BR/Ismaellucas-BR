@@ -14,9 +14,7 @@
         <a href="https://github.com/Ismaellucas-BR/Instagram"> <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Instagram&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
         <a href="https://github.com/Ismaellucas-BR/Carnaval"> <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Carnaval&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
      </div>
-     
-     
-    
+ <div>
       <div style="display:inline_block"><br>
       <img align="center" alt="is-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="is-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -32,8 +30,5 @@
     <div>
       <a href="https://www.instagram.com/ismael_lucas36/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ismael-lucas-72bb04196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
-    
-      
-    
      </div>
+  </div>
