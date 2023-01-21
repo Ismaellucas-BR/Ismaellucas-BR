@@ -6,7 +6,7 @@
     </div>
      <div align="center">
       <a href="https://github.com/Ismaellucas-BR">
-      <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=transparent&bg_color=00000000&border_color=00CC99&title_color=FE19FF"/>
+      <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Ismaellucas-BR&show_icons=true&theme=transparent&bg_color=00000000&border_color=00CC99&title_color=FE19FF&icon_color=00CC99"/>
       <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&layout=compact&show_icons=true&theme=transparent&bg_color=00000000&border_color=00CC99&title_color=FE19FF"/>
      </div>
   <div align="center">
