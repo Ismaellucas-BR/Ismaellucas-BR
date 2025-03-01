@@ -10,10 +10,10 @@
       <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellucas-BR&layout=compact&show_icons=true&theme=transparent&bg_color=00000000&border_color=00CC99&title_color=FE19FF"/>
      </div>
   <div align="center">
-        <a href="https://github.com/Ismaellucas-BR/Tatakkae"> <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Tatakkae&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
-        <a href="https://github.com/Ismaellucas-BR/Carnaval"> <img height="180px" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Carnaval&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
-        <a href="https://github.com/Ismaellucas-BR/Valentines_day"> <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Valentines_day&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
-        <a href="https://github.com/Ismaellucas-BR/Cards_expansiveis"> <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Cards_expansiveis&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
+        <a href="https://github.com/Ismaellucas-BR/React-Portfolio/"> <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=React-Portfolio&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
+        <a href="https://github.com/Ismaellucas-BR/Blog-Github"> <img height="180px" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Blog-Github&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
+        <a href="https://github.com/Ismaellucas-BR/React-Uber"> <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=React-Uber&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
+        <a href="https://github.com/Ismaellucas-BR/Pizza-Shop"> <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismaellucas-BR&repo=Pizza-Shop&bg_color=000&text_color=fff&title_color=00CC99&icon_color=00CC99&border_color=FE19FF"></a>
      </div>
  <div>
       <div style="display:inline_block"><br>
